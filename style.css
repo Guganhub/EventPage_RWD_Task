@@ -1,0 +1,12 @@
+    body{
+        background-color: azure;
+    }
+    .card-columns {
+        color: white;
+        column-count: 3;
+    }
+    .card-body{
+        background-color: #777a79;
+    }
+    
+ 
